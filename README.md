@@ -1,5 +1,6 @@
 - 👋 Hiii, I’m @elisabethmedlien.
 - I work as a software engineer for a company in Norway, Oslo.
 - I’m interested in creating small, simple & stable web solutions with varying web technologies.
-- I’m currently learning Vue & React with Typescript, Google API's, and Firebase.
-- elisabethmedlien@gmail.com
+
+elisabethmedlien@gmail.com
+https://elisabethmedlien.com/
